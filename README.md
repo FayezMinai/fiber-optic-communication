@@ -1,4 +1,4 @@
-# fiber-optic-communication
+# Fiber Optic Communication System
 Arduino fiber‑optic transceiver demo with Python GUI for real‑time communication
 
 ## 🔧 Hardware Overview
